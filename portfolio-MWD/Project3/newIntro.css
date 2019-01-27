@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+
+
+
+
+
+ul{
+    margin: 0px;
+    padding: 4px;
+    list-style: none;
+    margin-top: 0px;
+    
+}
+
+
+ul li {
+    float: left;
+    width: 260px;
+    height: 60px;
+    background-color: black;
+    opacity: .8;
+    line-height: 50px;
+    text-align: center;
+    font-size: 25px;
+   
+
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+ul li a:hover{
+    background-color: red;
+}

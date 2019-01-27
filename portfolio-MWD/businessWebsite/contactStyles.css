@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    background: url(33640261_xl.jpg) 50% 50% no-repeat;
+    background-size: cover;
+    display: table;
+}
+
+
+
+
+
+.wrapper{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  padding: 0 20px;
+}
+ 
+.contact-form{
+  display: flex;
+  max-width: 550px;
+  margin: 0 auto;
+  background: rgba(0,0,0,0.8);
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+ 
+.input-fields{
+  display: flex;
+  flex-direction: column;
+  margin-right: 4%;
+}
+ 
+.input-fields,
+.msg{
+  width: 48%;
+}
+ 
+.input-fields .input,
+.msg textarea{
+  margin: 10px 0;
+  background: transparent;
+  border: 0px;
+  border-bottom: 2px solid #c5ecfd;
+  padding: 10px;
+  color: #c5ecfd;
+  width: 100%;
+}
+ 
+.msg textarea{
+  height: 212px;
+}
+
+
+
+
+
+.button{
+    width: 250px;
+    background-color: darkcyan;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    margin: 0 auto;
+    border-radius: 5px;
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+
+
+li a:hover {
+    background-color: #111;
+}
+
+a.active {
+    background-color: deepskyblue;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    
+
+}

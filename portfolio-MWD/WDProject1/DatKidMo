@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <style>
+                body {background-color: #222629}
+                p{color: aliceblue}
+                li{color: aliceblue}
+                h1{color: #86C232}
+                h2{color: #61892F}
+                
+                
+            </style>
+            <title>MSeck.com</title>
+        </head>
+        
+        
+    <body>
+        <h1>Dat Kid Mo</h1>
+        
+       <nav> 
+        <a href="DatKidMo">Home</a>&nbsp;&nbsp;
+        <a href="GroupSecondPage"> Learn More</a>&nbsp;&nbsp;
+        <a href= "MoIn2018">Mo in 2018</a>
+                    </nav>
+        
+        <hr />
+        
+           <h2>Welcome To My Page</h2>
+           
+            <p>Here you will find everything you need to know about Mohameth Seck.</p>
+        
+        <img src="1280px-Flag_of_Senegal.svg.png"
+             height="50" width="100">
+        
+        <img src="IMG_0029.JPG"
+             height="275" width="175">
+            
+            <h2>Basic Info</h2>
+            
+            <ul>
+                
+        <li><strong>Name</strong>: Mohameth Fadel Seck </li>
+                
+        <li><strong>Nickname</strong>: Mo</li>
+                
+        <li><strong>Age</strong>: 20 years old (March 3, 1997)</li>
+                
+        <li><strong>Home Town</strong>: West Haven, Connecticut, US</li>
+        
+        <li><strong>Nationality</strong>: Senegalese</li>
+            
+                
+            </ul>
+        
+        <h2>Introduction</h2>
+        
+        <p>I'm currently attending the University of Hartford and I'm in my sophmore year. <br>I currently major in Computer Engineering, but I'm looking to change my major to Computer Science.<br/> On this site you'll find my hobbies, interest, and a more indept look of who Mohameth is.</p>
+        
+        
+        
+        <p>
+        
+        </body>
+    
+    </html>
