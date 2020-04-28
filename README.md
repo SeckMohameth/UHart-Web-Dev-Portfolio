@@ -1,6 +1,6 @@
 # Web-Dev-Portfolio
 Websites I designed and made at the University of Hartford for my web development class.
-You can see a preview of them with the screenshots.
+You can see a preview of them with the screenshots. I took the class in the Spring of 2017.
 
 This was my first real introduction to web development and you can see how I gradually got better.
 
